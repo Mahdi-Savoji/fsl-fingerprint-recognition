@@ -46,3 +46,6 @@ Model: "functional_7"
 │ Lambda (Distance)   │ (None, 1)         │ 0          │
 │ Concatenate         │ (None, 2)         │ 0          │
 └─────────────────────┴───────────────────┴────────────┘
+
+
+# Single-image Inference Performance: 2.4473 sec (128×128 RGB input)
