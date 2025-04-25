@@ -48,4 +48,4 @@ Model: "functional_7"
 └─────────────────────┴───────────────────┴────────────┘
 
 ```
-# Single-image Inference Performance: 2.4473 sec (128×128 RGB input)
+#### Single-image Inference Performance: 2.4473 sec (128×128 RGB input)
