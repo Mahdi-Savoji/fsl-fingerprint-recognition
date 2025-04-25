@@ -1,5 +1,5 @@
 ﻿# fsl-fingerprint-recognition
-[![Open Notebook in nbviewer](https://img.shields.io/badge/render-nbviewer-orange.svg)](https://nbviewer.org/github/Mahdi-Savoji/fsl-fingerprint-recognition/blob/main/fsl-fingerprint-recognition.ipynb)
+[![Open Notebook in nbviewer](https://img.shields.io/badge/render-nbviewer-orange.svg)](https://nbviewer.org/github/Mahdi-Savoji/fsl-fingerprint-recognition/blob/main/fsl_fingerprint_recognition.ipynb)
 
 
 # Few-Shot Learning (FSL) with Pretrained Base Model and Triplet Loss  
@@ -46,3 +46,6 @@ Model: "functional_7"
 │ Lambda (Distance)   │ (None, 1)         │ 0          │
 │ Concatenate         │ (None, 2)         │ 0          │
 └─────────────────────┴───────────────────┴────────────┘
+
+```
+#### Single-image Inference Performance: 2.4473 sec (128×128 RGB input)
