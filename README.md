@@ -47,5 +47,5 @@ Model: "functional_7"
 │ Concatenate         │ (None, 2)         │ 0          │
 └─────────────────────┴───────────────────┴────────────┘
 
-
+```
 # Single-image Inference Performance: 2.4473 sec (128×128 RGB input)
